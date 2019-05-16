@@ -20,3 +20,5 @@
 
 import 'package:flutter/material.dart';
 import 'package:moamoa/app.dart';
+
+void main() => runApp(MoamoaApp());
