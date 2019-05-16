@@ -1,3 +1,11 @@
+/*
+*
+* 21500344 서찬솔, 21600062 김미소
+* v0.8 app.dart
+* 페이지 목록 관리.
+*
+*/
+
 import 'package:flutter/material.dart';
 import 'home.dart';
 import 'login.dart';
